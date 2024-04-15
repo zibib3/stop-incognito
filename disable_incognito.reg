@@ -4,6 +4,8 @@ Windows Registry Editor Version 5.00
 "IncognitoModeAvailability"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
 "InPrivateModeAvailability"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"BrowserGuestModeEnabled"=dword:00000000
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Mozilla\Firefox]
 "DisablePrivateBrowsing"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\MicrosoftEdge\Main]
